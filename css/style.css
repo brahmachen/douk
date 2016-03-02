@@ -115,6 +115,13 @@ body{
 	text-align: center;
 	    padding: 18em 0px 0;
 }
+.header-banner1 {
+    background: url(../images/huanbao2.jpg) no-repeat 0px 0px;
+    background-size: cover;
+    min-height: 300px;
+	text-align: center;
+	    padding: 18em 0px 0;
+}
 .banner-grids {
    background-color: #a9a685;
     margin-top: 13.8em;
