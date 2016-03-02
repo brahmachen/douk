@@ -120,7 +120,8 @@ body{
     background-size: cover;
     min-height: 300px;
 	text-align: center;
-	    padding: 18em 0px 0;
+	    padding: 18em 0px 30px;
+	margin-bottom: 100px;
 }
 .banner-grids {
    background-color: #a9a685;
